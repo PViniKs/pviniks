@@ -14,17 +14,21 @@ Here are some ideas to get you started:
 -->
 
 ## Hello there 👋
-![Hello](./hello.gif)
+![Hello](./hello.jpg)
 
 ### Sobre mim
-Meu nome é **Paulo Vinícius (Pviniks)**. Sou apaixonado por tecnologia, astronomia, cultura japonesa e livros. Atualmente, estou trabalhando na produção de uma estação meteorológica de baixo custo, um projeto na minha faculdade.
+Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Sistemas de Informação.
 
 ### Tecnologias e Aprendizado
 - 🌱 Atualmente estou aprendendo: Java, Node.js
 - 🔭 Aprimorando: Python, C++
+- 💻 Possuo Conhecimento:   Python, Java, JavaScript, Node.js
+                            C, C#, C++
+                            PHP, HTML5, CSS
+                            PostgreSQL, MySQl
 
 ### Projetos
-- [Estação Meteorológica de Baixo Custo](https://github.com/PViniKs/sensor-ifcria)
+- [Análise da Temperatura na Sala Container da Incubadora IFCria, do IFC Camboriú](https://github.com/PViniKs/sensor-ifcria)
 
 ### Conquistas
 - Classificado para a 2ª fase da OBMEP 2021
@@ -49,13 +53,14 @@ Meu nome é **Paulo Vinícius (Pviniks)**. Sou apaixonado por tecnologia, astron
 - Atualmente no 4º período do Bacharelado em Sistemas de Informação pelo Instituto Federal Catarinense (IFC) - Campus Camboriú
 
 ### Objetivos Futuros
-Quero trabalhar com programação, seja de jogos ou na parte de engenharia de software, ou então na parte de cibersegurança. Além disso, quero também ter a oportunidade de morar fora, talvez na Europa. Tenho o sonho de conhecer a Áustria.
+Tenho interesse em trabalhar com programação, seja em desenvolvimento de jogos, engenharia de software ou em cibersegurança. Além disso, também gostaria de ter a oportunidade de morar no exterior, possivelmente na Europa, com um sonho especial de conhecer a Áustria.
 
 ### Contato
-- 📧 Email: pviniks@gmail.com
+- 📧 Email: [pviniks@gmail.com](mailto:pviniks@gmail.com)
 - [LinkedIn](https://br.linkedin.com/in/paulovkuss)
 - [Instagram](https://instagram.com/pviniks)
 - [GitHub](https://github.com/PViniKs)
 - [X (Twitter)](https://x.com/pviniks)
+- [Currículo Lattes](http://lattes.cnpq.br/3726108305029961)
 
 ![Gato](./gato.jpg)
