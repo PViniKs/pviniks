@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hello there 👋
-<img src="./hello.jpg" alt="Hello" width="40%"/>
+<img src="./hello.jpg" alt="Hello" width="70%"/>
 
 ### Sobre mim
 Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Sistemas de Informação.
