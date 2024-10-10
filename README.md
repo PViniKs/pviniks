@@ -64,3 +64,53 @@ Tenho interesse em trabalhar com programação, seja em desenvolvimento de jogos
 - [Currículo Lattes](http://lattes.cnpq.br/3726108305029961)
 
 ![Gato](./gato.jpg)
+
+## English
+<img src="./usa.gif" alt="USA" width="50%"/>
+
+### About Me
+My name is **Paulo Vinícius**, I am 20 years old and I am a student of Information Systems.
+
+### Technologies and Learning
+- 🌱 *Currently learning:* Java, Node.js
+- 🔭 *Improving:* Python, C++
+- 💻 *Experienced with:*   Python, Java, JavaScript, Node.js
+                          C, C#, C++
+                          PHP, HTML5, CSS
+                          PostgreSQL, MySQL
+
+### Projects
+- [Temperature Analysis in the Container Room of the IFCria Incubator, at IFC Camboriú](https://github.com/PViniKs/sensor-ifcria)
+
+### Achievements
+- Qualified for the 2nd phase of **OBMEP** (*2021*)
+- Participation in the **“Young Programmer Workshop”** held by SEPROSC and Senac
+- Honorable Mention in Category A of the **Rio Grande do Sul Chemistry Olympiad** (*2021*)
+- National Gold Medal in the Theoretical Category of the **Brazilian Robotics Olympiad** (*2018*)
+- Selected for an **International Student Mobility** program to Portugal (February/July *2025*)
+
+### Hobbies and Interests
+- 🎸 Playing guitar
+- 🌌 Astronomy
+- 🎌 Japanese culture
+- 📚 Reading books
+- 🎮 Playing Minecraft and Valorant
+- 📸 Photography
+- 🏀 Basketball and Volleyball
+- 🎥 Psychological horror movies
+- 💻 Everything related to technology
+
+### Education
+- High School Diploma
+- Currently in the 4th semester of the Bachelor's Degree in Information Systems at the Federal Institute of Santa Catarina (IFC) - Campus Camboriú
+
+### Future Goals
+I am interested in working with programming, whether in game development, software engineering, or cybersecurity. Additionally, I would also like to have the opportunity to live abroad, possibly in Europe, with a special dream of visiting Austria.
+
+### Contact
+- 📧 Email: [pviniks@gmail.com](mailto:pviniks@gmail.com)
+- [LinkedIn](https://br.linkedin.com/in/paulovkuss)
+- [Instagram](https://instagram.com/pviniks)
+- [GitHub](https://github.com/PViniKs)
+- [X (Twitter)](https://x.com/pviniks)
+- [Currículo Lattes](http://lattes.cnpq.br/3726108305029961)
