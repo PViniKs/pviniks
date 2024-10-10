@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# (Jump to the [English Version](#English))
+# (Jump to the [English Version](#english))
 
 ## Hello there 👋
 <img src="./hello.jpg" alt="Hello" width="50%"/>
