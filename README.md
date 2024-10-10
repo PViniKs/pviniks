@@ -30,7 +30,7 @@ Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Si
                             PostgreSQL, MySQl
 
 ### Projetos
-- [Análise da Temperatura na Sala Container da Incubadora IFCria, do IFC Camboriú](https://github.com/PViniKs/sensor-ifcria){:target="_blank"}
+- [Análise da Temperatura na Sala Container da Incubadora IFCria, do IFC Camboriú](https://github.com/PViniKs/sensor-ifcria)
 
 ### Conquistas
 - Classificado para a 2ª fase da **OBMEP** (*2021*)
@@ -59,11 +59,11 @@ Tenho interesse em trabalhar com programação, seja em desenvolvimento de jogos
 
 ### Contato
 - 📧 Email: [pviniks@gmail.com](mailto:pviniks@gmail.com)
-- [LinkedIn](https://br.linkedin.com/in/paulovkuss){:target="_blank"}
-- [Instagram](https://instagram.com/pviniks){:target="_blank"}
-- [GitHub](https://github.com/PViniKs){:target="_blank"}
-- [X (Twitter)](https://x.com/pviniks){:target="_blank"}
-- [Currículo Lattes](http://lattes.cnpq.br/3726108305029961){:target="_blank"}
+- [LinkedIn](https://br.linkedin.com/in/paulovkuss)
+- [Instagram](https://instagram.com/pviniks)
+- [GitHub](https://github.com/PViniKs)
+- [X (Twitter)](https://x.com/pviniks)
+- [Currículo Lattes](http://lattes.cnpq.br/3726108305029961)
 
 ![Gato](./gato.jpg)
 
@@ -82,7 +82,7 @@ My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor�
                           PostgreSQL, MySQL
 
 ### Projects
-- [Temperature Analysis in the Container Room of the IFCria Incubator, at IFC Camboriú](https://github.com/PViniKs/sensor-ifcria){:target="_blank"}
+- [Temperature Analysis in the Container Room of the IFCria Incubator, at IFC Camboriú](https://github.com/PViniKs/sensor-ifcria)
 
 ### Achievements
 - Qualified for the 2nd phase of **OBMEP** (*2021*)
@@ -111,8 +111,8 @@ I am interested in working with programming, whether in game development, softwa
 
 ### Contact
 - 📧 Email: [pviniks@gmail.com](mailto:pviniks@gmail.com)
-- [LinkedIn](https://br.linkedin.com/in/paulovkuss){:target="_blank"}
-- [Instagram](https://instagram.com/pviniks){:target="_blank"}
-- [GitHub](https://github.com/PViniKs){:target="_blank"}
-- [X (Twitter)](https://x.com/pviniks){:target="_blank"}
-- [Currículo Lattes](http://lattes.cnpq.br/3726108305029961){:target="_blank"}
+- [LinkedIn](https://br.linkedin.com/in/paulovkuss)
+- [Instagram](https://instagram.com/pviniks)
+- [GitHub](https://github.com/PViniKs)
+- [X (Twitter)](https://x.com/pviniks)
+- [Currículo Lattes](http://lattes.cnpq.br/3726108305029961)
