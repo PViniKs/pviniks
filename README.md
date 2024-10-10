@@ -71,7 +71,7 @@ Tenho interesse em trabalhar com programação, seja em desenvolvimento de jogos
 <img src="./usa.gif" alt="USA" width="50%"/>
 
 ### About Me
-My name is **Paulo Vinícius**, I am 20 years old and I am a student of Information Systems.
+My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor’s in Information Systems.
 
 ### Technologies and Learning
 - 🌱 *Currently learning:* Java, Node.js
