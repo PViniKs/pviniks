@@ -24,7 +24,7 @@ Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Si
 ### Tecnologias e Aprendizado
 - 🌱 *Atualmente estou aprendendo:* Java, Node.js
 - 🔭 *Aprimorando:* Python, C++
-- 💻 *Possuo conhecimento:*   Python, Java, JavaScript, Node.js
+- 💻 *Possuo conhecimento:* Python, Java, JavaScript, Node.js
                             C, C#, C++
                             PHP, HTML5, CSS
                             PostgreSQL, MySQl
@@ -76,7 +76,7 @@ My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor�
 ### Technologies and Learning
 - 🌱 *Currently learning:* Java, Node.js
 - 🔭 *Improving:* Python, C++
-- 💻 *Experienced with:*   Python, Java, JavaScript, Node.js
+- 💻 *Experience with:*  Python, Java, JavaScript, Node.js
                           C, C#, C++
                           PHP, HTML5, CSS
                           PostgreSQL, MySQL
