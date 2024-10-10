@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## (Jump to the [English Version]('#English'))
 
 ## Hello there 👋
 <img src="./hello.jpg" alt="Hello" width="50%"/>
