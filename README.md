@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 -->
 
 ## Hello there 👋
-![Hello](./hello.jpg)
+<img src="./hello.jpg" alt="Hello" width="300"/>
 
 ### Sobre mim
 Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Sistemas de Informação.
 
 ### Tecnologias e Aprendizado
-- 🌱 Atualmente estou aprendendo: Java, Node.js
-- 🔭 Aprimorando: Python, C++
-- 💻 Possuo Conhecimento:   Python, Java, JavaScript, Node.js
+- 🌱 *Atualmente estou aprendendo:* Java, Node.js
+- 🔭 *Aprimorando:* Python, C++
+- 💻 *Possuo conhecimento:*   Python, Java, JavaScript, Node.js
                             C, C#, C++
                             PHP, HTML5, CSS
                             PostgreSQL, MySQl
@@ -31,11 +31,11 @@ Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Si
 - [Análise da Temperatura na Sala Container da Incubadora IFCria, do IFC Camboriú](https://github.com/PViniKs/sensor-ifcria)
 
 ### Conquistas
-- Classificado para a 2ª fase da OBMEP 2021
-- Participação no “Workshop Jovem Programador” realizado pela SEPROSC e Senac
-- Menção Honrosa na Modalidade A da Olimpíada de Química do Rio Grande do Sul (2021)
-- Medalha de Ouro Nacional na Modalidade Teórica da Olimpíada Brasileira de Robótica 2018
-- Selecionado para um programa de mobilidade internacional para Portugal (fevereiro/julho de 2025)
+- Classificado para a 2ª fase da **OBMEP** (*2021*)
+- Participação no **“Workshop Jovem Programador”** realizado pela SEPROSC e Senac
+- Menção Honrosa na Modalidade A da **Olimpíada de Química do Rio Grande do Sul** (*2021*)
+- Medalha de Ouro Nacional na Modalidade Teórica da **Olimpíada Brasileira de Robótica** (*2018*)
+- Selecionado para um programa de **Mobilidade Estudantil Internacional** para Portugal (fevereiro/julho de *2025*)
 
 ### Hobbies e Interesses
 - 🎸 Tocar guitarra
