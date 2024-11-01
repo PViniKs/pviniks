@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+ (\__/)
+ (o^-^)
+z(_(")(")
+-->
+
 #### (Jump to the [English Version](#english))
 
 ## Hello there 👋
