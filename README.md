@@ -113,4 +113,4 @@ I am interested in working with programming, whether in game development, softwa
 - [Instagram](https://instagram.com/pviniks)
 - [GitHub](https://github.com/PViniKs)
 - [X (Twitter)](https://x.com/pviniks)
-- [Currículo Lattes](http://lattes.cnpq.br/3726108305029961)
+- [Lattes Curriculum](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1106257A7&idiomaExibicao=2)
