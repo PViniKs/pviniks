@@ -22,7 +22,7 @@ z(_(")(")
 #### (Jump to the [English Version](#english))
 
 ## Hello there 👋
-<img src="./hello.jpg" alt="Hello" width="50%"/>
+<img src="https://raw.githubusercontent.com/PViniKs/pviniks/refs/heads/main/hello.jpg" alt="Hello" width="50%"/>
 
 ### Sobre mim
 Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Sistemas de Informação.
@@ -35,7 +35,7 @@ Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Si
 ### Projetos
 - [Análise da Temperatura na Sala Container da Incubadora IFCria, do IFC Camboriú](https://github.com/PViniKs/sensor-ifcria)
 
-    └ [Artigo](./FICE2024-Analise%20de%20temperatura%20Sala%20container.pdf)
+    └ [Artigo](https://github.com/PViniKs/pviniks/blob/main/FICE2024-Analise%20de%20temperatura%20Sala%20container.pdf)
 
 ### Conquistas
 - Classificado para a 2ª fase da **OBMEP** (*2021*)
@@ -72,10 +72,10 @@ Tenho interesse em trabalhar com programação, seja em desenvolvimento de jogos
 - [X (Twitter)](https://x.com/pviniks)
 - [Currículo Lattes](http://lattes.cnpq.br/3726108305029961)
 
-![Gato](./gato.jpg)
+![Gato](https://raw.githubusercontent.com/PViniKs/pviniks/refs/heads/main/gato.jpg)
 
 ## English
-<img src="./usa.gif" alt="USA" width="50%"/>
+<img src="https://raw.githubusercontent.com/PViniKs/pviniks/refs/heads/main/usa.gif" alt="USA" width="50%"/>
 
 ### About Me
 My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor’s in Information Systems.
@@ -88,7 +88,7 @@ My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor�
 ### Projects
 - [Temperature Analysis in the Container Room of the IFCria Incubator, at IFC Camboriú](https://github.com/PViniKs/sensor-ifcria)
 
-    └ [Article](./FICE2024-Analise%20de%20temperatura%20Sala%20container.pdf) (Portuguese only, for now)
+    └ [Article](https://github.com/PViniKs/pviniks/blob/main/FICE2024-Analise%20de%20temperatura%20Sala%20container.pdf) (Portuguese only, for now)
 
 ### Achievements
 - Qualified for the 2nd phase of **OBMEP** (*2021*)
