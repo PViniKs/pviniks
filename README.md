@@ -59,7 +59,7 @@ Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Si
 - Ensino Médio Completo
 - Atualmente no 4º período do Bacharelado em Sistemas de Informação pelo Instituto Federal Catarinense
 
-    └ [(IFC) - Campus Camboriú](https://www.camboriu.ifc.edu.br/)
+    └ [IFC - Campus Camboriú](https://www.camboriu.ifc.edu.br/)
 
 ### Objetivos Futuros
 Tenho interesse em trabalhar com programação, seja em desenvolvimento de jogos, engenharia de software ou em cibersegurança. Além disso, também gostaria de ter a oportunidade de morar no exterior, possivelmente na Europa, com um sonho especial de conhecer a Áustria.
@@ -112,7 +112,7 @@ My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor�
 - High School Diploma
 - Currently in the 4th semester of the Bachelor's Degree in Information Systems at the Federal Institute of Santa Catarina
 
-    └ [(IFC) - Campus Camboriú](https://www.camboriu.ifc.edu.br/)
+    └ [IFC - Campus Camboriú](https://www.camboriu.ifc.edu.br/)
 
 ### Future Goals
 I am interested in working with programming, whether in game development, software engineering, or cybersecurity. Additionally, I would also like to have the opportunity to live abroad, possibly in Europe, with a special dream of visiting Austria.
