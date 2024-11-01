@@ -91,7 +91,7 @@ My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor�
     └ [Article](https://github.com/PViniKs/pviniks/blob/main/FICE2024-Analise%20de%20temperatura%20Sala%20container.pdf) (Portuguese only, for now)
 
 ### Achievements
-- Qualified for the 2nd phase of **OBMEP** (*2021*)
+- Qualified for the 2nd phase of **Brazilian Mathematical Olympiad of Public Schools** (*2021*)
 - Participation in the **“Young Programmer Workshop”** held by SEPROSC and Senac
 - Honorable Mention in Category A of the **Rio Grande do Sul Chemistry Olympiad** (*2021*)
 - National Gold Medal in the Theoretical Category of the **Brazilian Robotics Olympiad** (*2018*)
