@@ -22,15 +22,14 @@ Here are some ideas to get you started:
 Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Sistemas de Informação.
 
 ### Tecnologias e Aprendizado
-- 🌱 *Atualmente estou aprendendo:* Java, Node.js
+- 🌱 *Atualmente Estudando:* Java, Node.js, Cibersegurança
 - 🔭 *Aprimorando:* Python, C++
-- 💻 *Possuo conhecimento:* Python, Java, JavaScript, Node.js
-                            C, C#, C++
-                            PHP, HTML5, CSS
-                            PostgreSQL, MySQl
+- 💻 *Possuo conhecimento:* Python, Java, JavaScript, Node.js, C, C#, C++, PHP, HTML5, CSS, PostgreSQL, MySQl
 
 ### Projetos
 - [Análise da Temperatura na Sala Container da Incubadora IFCria, do IFC Camboriú](https://github.com/PViniKs/sensor-ifcria)
+
+    └ [Artigo](./FICE2024-Analise%20de%20temperatura%20Sala%20container.pdf)
 
 ### Conquistas
 - Classificado para a 2ª fase da **OBMEP** (*2021*)
@@ -74,15 +73,14 @@ Tenho interesse em trabalhar com programação, seja em desenvolvimento de jogos
 My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor’s in Information Systems.
 
 ### Technologies and Learning
-- 🌱 *Currently learning:* Java, Node.js
+- 🌱 *Currently learning:* Java, Node.js, Cybersecurity
 - 🔭 *Improving:* Python, C++
-- 💻 *Experience with:*  Python, Java, JavaScript, Node.js
-                          C, C#, C++
-                          PHP, HTML5, CSS
-                          PostgreSQL, MySQL
+- 💻 *Experience with:*  Python, Java, JavaScript, Node.js, C, C#, C++, PHP, HTML5, CSS, PostgreSQL, MySQL
 
 ### Projects
 - [Temperature Analysis in the Container Room of the IFCria Incubator, at IFC Camboriú](https://github.com/PViniKs/sensor-ifcria)
+
+    └ [Article](./FICE2024-Analise%20de%20temperatura%20Sala%20container.pdf) (Portuguese only, for now)
 
 ### Achievements
 - Qualified for the 2nd phase of **OBMEP** (*2021*)
