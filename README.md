@@ -25,7 +25,7 @@ z(_(")(")
 <img src="https://raw.githubusercontent.com/PViniKs/pviniks/refs/heads/main/hello.jpg" alt="Hello" width="50%"/>
 
 ### Sobre mim
-Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Sistemas de Informação.
+Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Sistemas de Informação, atualmente estudante de Engenharia de Redes e Sistemas de Computadores na ESTG (Instituto Politécnico de Viana do Castelo - Portugal).
 
 ### Tecnologias e Aprendizado
 - 🌱 *Atualmente Estudando:* Java, Node.js, Cibersegurança
@@ -78,7 +78,7 @@ Tenho interesse em trabalhar com programação, seja em desenvolvimento de jogos
 <img src="https://raw.githubusercontent.com/PViniKs/pviniks/refs/heads/main/usa.gif" alt="USA" width="50%"/>
 
 ### About Me
-My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor’s in Information Systems.
+My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor’s in Information Systems. Currently, I'm enrolled at Engineering of Networks and Computer Systems at ESTG (Polytechnic Institute of Viana do Castelo - Portugal).
 
 ### Technologies and Learning
 - 🌱 *Currently learning:* Java, Node.js, Cybersecurity
