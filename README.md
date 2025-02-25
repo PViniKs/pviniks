@@ -48,6 +48,7 @@ Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Si
 - 🎸 Guitarra
 - 🌌 Astronomia
 - 🎌 Cultura japonesa
+- 🐈‍⬛ Gatos
 - 📚 Livros
 - 🎮 Minecraft e Valorant
 - 📸 Fotografia
@@ -104,6 +105,7 @@ My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor�
 - 🎸 Electric Guitar
 - 🌌 Astronomy
 - 🎌 Japanese culture
+- 🐈‍⬛ Cats
 - 📚 Books
 - 🎮 Minecraft and Valorant
 - 📸 Photography
