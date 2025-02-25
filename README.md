@@ -57,12 +57,15 @@ Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Si
 
 ### Educação
 - Ensino Médio Completo
-- Atualmente no 4º período do Bacharelado em Sistemas de Informação pelo Instituto Federal Catarinense
+- Atualmente no 5º período do Bacharelado em Sistemas de Informação pelo Instituto Federal Catarinense
 
     └ [IFC - Campus Camboriú](https://www.camboriu.ifc.edu.br/)
+- Cursando 1 semestre de Engenharia de Redes e Sistemas de Computadores na ESTG – Instituto Politécnico de Viana do Castelo
+ 
+    └ [IPVC - ESTG](https://www.ipvc.pt/estg/)
 
 ### Objetivos Futuros
-Tenho interesse em trabalhar com programação, seja em desenvolvimento de jogos, engenharia de software ou em cibersegurança. Além disso, também gostaria de ter a oportunidade de morar no exterior, possivelmente na Europa, com um sonho especial de conhecer a Áustria.
+Tenho interesse em trabalhar com programação, seja em desenvolvimento de jogos, engenharia de software ou em cibersegurança. Além disso, também gostaria de ter a oportunidade de morar e trabalhar no exterior, possivelmente na Europa, com um sonho especial de conhecer a Áustria e a Itália.
 
 ### Contato
 - 📧 Email: [pviniks@gmail.com](mailto:pviniks@gmail.com)
@@ -78,7 +81,7 @@ Tenho interesse em trabalhar com programação, seja em desenvolvimento de jogos
 <img src="https://raw.githubusercontent.com/PViniKs/pviniks/refs/heads/main/usa.gif" alt="USA" width="50%"/>
 
 ### About Me
-My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor’s in Information Systems. Currently, I'm enrolled at Engineering of Networks and Computer Systems at ESTG (Polytechnic Institute of Viana do Castelo - Portugal).
+My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor’s in Information Systems. Currently, I'm enrolled at Computer Networks and Systems Engineering at ESTG (Polytechnic University of Viana do Castelo - Portugal).
 
 ### Technologies and Learning
 - 🌱 *Currently learning:* Java, Node.js, Cybersecurity
@@ -113,9 +116,12 @@ My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor�
 - Currently in the 4th semester of the Bachelor's Degree in Information Systems at the Federal Institute of Santa Catarina
 
     └ [IFC - Campus Camboriú](https://www.camboriu.ifc.edu.br/)
+- Studying 1 semester of Computer Networks and Systems Engineering at ESTG – Polytechnic University of Viana do Castelo
+ 
+    └ [IPVC - ESTG](https://www.ipvc.pt/estg/)
 
 ### Future Goals
-I am interested in working with programming, whether in game development, software engineering, or cybersecurity. Additionally, I would also like to have the opportunity to live abroad, possibly in Europe, with a special dream of visiting Austria.
+I am interested in working with programming, whether in game development, software engineering, or cybersecurity. Additionally, I would also like to have the opportunity to live and work abroad, possibly in Europe, with a special dream of visiting Austria and Italia.
 
 ### Contact
 - 📧 Email: [pviniks@gmail.com](mailto:pviniks@gmail.com)
