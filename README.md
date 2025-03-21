@@ -35,7 +35,7 @@ Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Si
 ### Projetos
 - [Análise da Temperatura na Sala Container da Incubadora IFCria, do IFC Camboriú](https://github.com/PViniKs/sensor-ifcria)
 
-    └ [Artigo](https://github.com/PViniKs/pviniks/blob/main/FICE2024-Analise%20de%20temperatura%20Sala%20container.pdf)
+    └ [Artigo](https://publicacoes.ifc.edu.br/index.php/fice/article/view/5772/4872)
 
 ### Conquistas
 - Classificado para a 2ª fase da **OBMEP** (*2021*)
