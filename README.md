@@ -92,7 +92,7 @@ My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor�
 ### Projects
 - [Temperature Analysis in the Container Room of the IFCria Incubator, at IFC Camboriú](https://github.com/PViniKs/sensor-ifcria)
 
-    └ [Article](https://github.com/PViniKs/pviniks/blob/main/FICE2024-Analise%20de%20temperatura%20Sala%20container.pdf) (Portuguese only, for now)
+    └ [Article](https://publicacoes.ifc.edu.br/index.php/fice/article/view/5772/4872) (Portuguese only, for now)
 
 ### Achievements
 - Qualified for the 2nd phase of **Brazilian Mathematical Olympiad of Public Schools** (*2021*)
