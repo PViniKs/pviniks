@@ -64,7 +64,7 @@ Me chamo **Paulo Vinícius**, tenho 20 anos e sou estudante de Bacharelado em Si
 
 ### Educação
 - Ensino Médio Completo
-- Atualmente no 5º período do Bacharelado em Sistemas de Informação pelo Instituto Federal Catarinense
+- Atualmente no 6º período do Bacharelado em Sistemas de Informação pelo Instituto Federal Catarinense
 
     └ [IFC - Campus Camboriú](https://www.camboriu.ifc.edu.br/)
 - 1 semestre cursado em Engenharia de Redes e Sistemas de Computadores na ESTG – Instituto Politécnico de Viana do Castelo
@@ -127,7 +127,7 @@ My name is **Paulo Vinícius**, I'm 20 years old and I'm a student of Bachelor�
 
 ### Education
 - High School Diploma
-- Currently in the 4th semester of the Bachelor's Degree in Information Systems at the Federal Institute of Santa Catarina
+- Currently in the 6th semester of the Bachelor's Degree in Information Systems at the Federal Institute of Santa Catarina
 
     └ [IFC - Campus Camboriú](https://www.camboriu.ifc.edu.br/)
 - 1 semester of Computer Networks and Systems Engineering at ESTG – Polytechnic University of Viana do Castelo
